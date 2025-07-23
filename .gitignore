@@ -1,0 +1,11 @@
+
+# Ignore sensitive data
+reddit_refresh_token_*.txt
+*.csv
+*.ini
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
