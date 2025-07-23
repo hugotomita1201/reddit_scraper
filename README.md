@@ -17,3 +17,7 @@ This project contains scripts for automating Reddit tasks, such as scraping data
 *   `reddit_scraper.py`: Scrapes subreddits for keywords.
 *   `auto_messenger_final.py`: Sends messages to users from a CSV file.
 *   `test_reddit_auth.py`: Tests your Reddit API credentials.
+
+## Development
+
+It is important to explicitly test every single feature before finalizing and implementing it.
